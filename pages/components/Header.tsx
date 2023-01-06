@@ -5,7 +5,7 @@ import logo from '../components/images/logo.png'
 
 function Header() {
   return (
-    <nav className="px-2 sm:px-1 py-1">
+    <nav className="px-2 sm:px-4 py-1">
   <div className="container flex flex-wrap items-center justify-between mx-auto">
     <div className='flex space-x-3 pt-2'>
     <div><Image src={logo} alt="logo" className='image' /></div>
