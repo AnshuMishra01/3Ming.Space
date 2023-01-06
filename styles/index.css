@@ -41,7 +41,9 @@ p,h2{
   margin-top: 6rem;
 }
 
-  @media screen and (min-width: 480px) {
+
+
+  @media screen and (min-width: 995px) {
     body{
       background-image: url(../pages/components/images/index.png);
     
@@ -64,10 +66,6 @@ p,h2{
   
   }
   
-
-
-
-
 .heading{
   text-shadow: 16px 22px 11px rgba(0, 0, 0, 0.8);
 }
