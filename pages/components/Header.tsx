@@ -9,7 +9,7 @@ function Header() {
   <div className="container flex flex-wrap items-center justify-between mx-auto">
     <div className='flex space-x-3 pt-2'>
     <div><Image src={logo} alt="logo" className='image' /></div>
-    <div><h6 className= "self-center text-2xl md:text-3xl font-bold whitespace-nowrap text-white"><Link href="/">3Ming
+    <div><h6 className= "md:self-center text-2xl md:text-3xl font-bold whitespace-nowrap text-white"><Link href="/">3Ming
     <span>.</span>
     <span>S</span>
     <span>p</span>

@@ -95,7 +95,7 @@ p,h2{
 .jt__text {
   display: block;
   transform-origin: bottom left;
-  animation: moveIn 4s 0s cubic-bezier(.36,0,.06,1) alternate 1 ;
+  animation: moveIn 2s 0s cubic-bezier(.36,0,.06,1) alternate 1 ;
 }
 
 @keyframes moveIn {
