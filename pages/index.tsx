@@ -11,7 +11,7 @@ function index() {
       <Header />
 
       <div id="main ">
-        <div className='pt-20 sm:pt-15 md:pt-10 md:mt-8'>
+        <div className='pt-10 sm:pt-15 md:pt-10 md:mt-8'>
         <h1 className="jt__text md:pl-20 text-2xl mt-20 md:ml-20 md:text-4xl text-slate-400 heading font-bold">&nbsp;&nbsp;&nbsp;UNLOCK THE POWER OF</h1>
         <h1 className="jt__text md:pl-20 ml-2 text-2xl mt-4 md:ml-20 md:text-4xl text-slate-400 heading font-bold">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span className='text-green-400  flicker'>WEB3</span> STREAMING</h1>
         </div>
