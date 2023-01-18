@@ -2,16 +2,7 @@ import React from 'react'
 
 function Footer() {
   return (
-//   <div className="wrapper">
-//   <div className="marquee text-xl text-gray-800 shadow md:text-2xl font-bold">
-//     <p>
-//     / 3MING IS A WEB3 STARTUP STUDIO BASED IN INDIA /// 3MING IS A WEB3 STARTUP STUDIO BASED IN INDIA //
-//     </p>
-//     <p>
-//     / 3MING IS A WEB3 STARTUP STUDIO BASED IN INDIA /// 3MING IS A WEB3 STARTUP STUDIO BASED IN INDIA
-//     </p>
-//   </div>
-// </div>
+
 <div>
   <div>
       <ul className="flex mt-2 pt-1 md:flex-row space-x-1 md:space-x-2 md:mx-10">

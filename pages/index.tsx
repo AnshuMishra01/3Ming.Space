@@ -9,7 +9,7 @@ export default function index() {
     <>
       <Head>
         <title>3Ming</title>
-        <meta name="description" content="3MING will be a web3 games streaming platform. Where we allow creators to stream web3 games. 3MING will help Creators to establish there presence in web3 gaming community and build there own virtual gaming communities." />
+        <meta name="description" content="3MING will be a web3 games streaming platform." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="google-site-verification" content="-dhy-Elguzg2-ta4dqIwGsXc6RYwUjTqTC1pvN1wGDA" />
         <link rel="icon" type="image/png" href="https://3ming.space/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.f460044c.png&w=1080&q=75"/>
